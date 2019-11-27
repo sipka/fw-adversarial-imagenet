@@ -1,5 +1,5 @@
 # fw-adversarial-imagenet
-Frank-Wolfe variant for adversarial attacks on Imagenet V3 model
+Frank-Wolfe variant for adversarial attacks on Inception V3 model
 
 * Paper 1: https://openreview.net/pdf?id=Hyewf3AqYX
 * Paper 2: https://arxiv.org/pdf/1811.10828.pdf
