@@ -19,5 +19,3 @@ The main difference between two papers and the original Frank Wolfe method is as
 
 The notebook is intended as an educational tool. As such, explainability is favoured over performance (hence the use of the notebook). 
 While effort was made to use efficient Python, the efficiency of code can be improved vastly by the use of sessions, GPU processing, and running through Terminal.
-
-Every function in this notebook is docstringed.
